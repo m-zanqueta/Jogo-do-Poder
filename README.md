@@ -1,10 +1,10 @@
-# Juunishi - Site
+# Jogo do poder
 
-![GitHub repo size](https://img.shields.io/github/repo-size/m-zanqueta/juunishi_site?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/m-zanqueta/juunishi_site?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/m-zanqueta/juunishi_site?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/m-zanqueta/juunishi_site?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/juunishi_site?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/m-zanqueta/get_out?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/m-zanqueta/get_out?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/m-zanqueta/get_out?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/m-zanqueta/get_out?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/get_out?style=for-the-badge)
 
 <img src="https://github.com/user-attachments/assets/37d4eefc-0101-4036-a68d-215c7ba27d30" width="300px;" alt="logo juunishi"/><br>
 
