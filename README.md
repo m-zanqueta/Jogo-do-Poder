@@ -6,8 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/m-zanqueta/get_out?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/m-zanqueta/get_out?style=for-the-badge)
 
-<img src="https://github.com/user-attachments/assets/c32d7cef-5ac5-442d-9a2d-628236fbddab" width="300px;" alt="logo etec"/><br>
-
+<img src="https://github.com/user-attachments/assets/ea8b8d36-4ae9-48b5-ab36-51ff25028cd2" width="300px;" alt="logo etec"/><br>
 
 > O Get Out é um jogo feito totalmente em html, css e javascript. O jogo foi realizado como uma proposta do professor
 > <a href="https://github.com/welltecnc" title="link Wellington">Wellington Cidade</a> durante uma das aulas, a do "Jogo do Poder". O projeto serviu
