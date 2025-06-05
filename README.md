@@ -17,7 +17,7 @@
 Vídeo de apresentação das funcionalidades do projeto:
 
 ```
-VIDEO
+https://github.com/user-attachments/assets/c1022304-9aa3-4145-9dfb-fe604004caf7
 ```
 
 ## 💻 Pré-requisitos
